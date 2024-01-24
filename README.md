@@ -14,7 +14,7 @@
 <h2 align="center">
 About Me 🎈 
 </h2>
-I am a self-driven Software Developer with 4 years of experience in building highly scalable, fault tolerant and extensible systems that can consume and process large amounts of events or information in real-time. My background as an international student, originally from Kosovo, has given me the ability to adapt to new environments quickly and work effectively with cross-functional teams. I actively engage in every aspect of the software development process, starting from the gathering of requirements, to the design phase, moving through the development process, reviewing, testing, deployment, and ending with ongoing monitoring and maintenance. 
+I am a self-driven Software Developer with 5 years of experience in building highly scalable, fault-tolerant, and extensible systems that can consume and process large amounts of events or information in real time. My background as an international student, originally from Kosovo, has given me the ability to adapt to new environments quickly and work effectively with cross-functional teams. I actively engage in every aspect of the software development process, starting from the gathering of requirements, to the design phase, moving through the development process, reviewing, testing, deployment, and ending with ongoing monitoring and maintenance. 
 <p align="center">
 <img src="https://media.giphy.com/media/2A6wKpIDvj4X00VXky/giphy.gif" width="100px">  
 </p>
